@@ -13,7 +13,7 @@
 
 const express     = require('express');
 const bodyParser  = require('body-parser');
-const hello_world  = require('../../').hello_world;
+const hello_world  = require('../../').test00343534_hello_world;
 
 var app = express();
 
